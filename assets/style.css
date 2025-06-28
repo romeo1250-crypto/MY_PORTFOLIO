@@ -117,6 +117,7 @@
 }
 #hero a{
   margin-right: 10px;
+  color: white;
 }
 #hero img{
   height: 100px;
@@ -188,6 +189,9 @@ ul li {
   width: 200px;
   height: 270px;
   background-color: #fcf4e8;
+}
+.projects p{
+  font-size: 23px;
 }
 footer {
   background: linear-gradient(to right, #3a0ca3, #7209b7);
