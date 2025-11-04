@@ -170,23 +170,28 @@ ul li {
   background: linear-gradient(to right, #fde4c2, #73a4b4, #d359e4) ;
   width: 80%;
 }
+
+#proje {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 35px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.cont{
+  margin: 10px;
+}
 #projects_container{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 30px;
   height: fit-content;
-  margin-top: 5px;
-}
-.finished-projects h1{
-  text-align: center;
-  margin-bottom: 0%;
-  font-size: 35px;
-  font-family: 'Times New Roman', Times, serif;
-  font-weight: bold;
 }
 .projects{
-  width: 200px;
+  margin-top: 5px;
+  width: 230px;
   height: 270px;
   background-color: #fcf4e8;
 }
